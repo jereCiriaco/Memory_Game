@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/final.dart';
+import 'final.dart';
 
 class Jogar extends StatefulWidget {
   List<String> cards;
